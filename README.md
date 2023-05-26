@@ -1,13 +1,13 @@
 ### Hello there 👋
 
-- 🌱 As Business Intelligence (BI) professional I help business and people to integrate their data to multiple plataforms and databases, and improve their business and processes through a data-driven approach.
+- 🌱 As a Business Intelligence (BI) professional I help organization and people thrive in this data-driven world. 
+My experience extends across the entire data analysis lifecycle. I have a strong foundation in data collection, cleaning, and transformation. I'nm happy to help you transform complex datasets into clear and compelling visual reports and dashboards, making insights easily accessible and actionable for people at all levels. 
 
 - 💬 Things I can help you with:
-  • API integrations
-  • Data Visualization
-  • Scripting & Automation
-  • Data analysis and reporting
-  • Technical Documentation and Presentations
+  • A/B testing
+  • API & Databases integrations
+  • Data analysis & Visualization
+  • Technical Presentations & Documentation 
 
 - 📫 How to reach me:
 Feel free to send me an email with any request or questions to larry.ascona@gmail.com
